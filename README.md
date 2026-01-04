@@ -19,7 +19,7 @@ The report is organized into four specialized pages, designed to guide users fro
 * **Purpose:** Provides a high-level "Bird's Eye View" of the dataset.
 * **Insights:** Key metrics such as player counts, rating distributions, and overall trends.
 * **Visuals:** Aggregated charts and filters to explore data by nationality, league, and club.
-<img width="1189" height="660" alt="image" src="https://github.com/user-attachments/assets/68d40b9a-8a54-4400-b687-6c84be734f3d" />
+<img width="1306" height="723" alt="image" src="https://github.com/user-attachments/assets/179ae5dd-d0ca-43cb-b430-9e26295656fb" />
 
 ### 3. Player Profiles & Details
 * **Purpose:** A dedicated view for individual player information.
